@@ -65,7 +65,7 @@ void cifrar()
 }
 
 
-int main(){
+int mainnnn(){
 
     // Definir cor do prompt de comando
     system ("color F5");

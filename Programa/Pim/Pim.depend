@@ -1,5 +1,15 @@
 # depslib dependency file v1.0
-1384737204 source:c:\users\Ângelo\documents\github\pimcriptografia\programa\pim\main.c
+1384822338 source:c:\users\Ângelo\documents\github\pimcriptografia\programa\pim\main.c
 	<stdio.h>
 	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1384826982 source:c:\users\Ângelo\documents\github\pimcriptografia\programa\pim\crip1.c
+	<conio.h>
+	<ctype.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<dos.h>
 
